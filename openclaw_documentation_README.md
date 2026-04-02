@@ -1,19 +1,16 @@
 # ocr-queue
 
-Wishlist for OCR using Google vision
+Wishlist for OCR using Google Vision
 
-## Language
+## Description
 
+This repository contains wishlists and lists for OCR processing using Google Vision API.
 
+## How to get help
 
-## Installation
+- Open an issue at https://github.com/OpenPecha/ocr-queue/issues
+- Check existing issues for solutions
 
-See repository for installation instructions.
+## Terms of use
 
-## Usage
-
-
-
-## License
-
-See repository for license details.
+This project is part of OpenPecha. See https://openpecha.org for terms of use.
